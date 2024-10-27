@@ -1,10 +1,10 @@
 version: 2
 updates:
-  - package-ecosystem: "github-actions"
+  - package-ecosystem: "github-actions" # Check for updates to GitHub Actions dependencies
     directory: "/"
     schedule:
-      interval: "daily"
-  - package-ecosystem: "pub"
+      interval: "monthly"
+  - package-ecosystem: "pub" # Check for updates to Dart packages monthly.
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "monthly" #daily #monthly #weekly
