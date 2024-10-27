@@ -16,7 +16,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   intl: ^0.19.0
-  newrelic_mobile: ^1.1.1
+  newrelic_mobile: ^1.1.5
   web_socket_channel: ^3.0.1
 
 dev_dependencies:
