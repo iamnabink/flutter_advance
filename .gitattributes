@@ -1,0 +1,7 @@
+* config.dart linguist-generated=true
+*freezed.dart linguist-generated=true
+*g-dart linguist-generated=true
+*-gen.dart linguist-generated=true
+*-gr.dart linguist-generated=true
+
+# doing this, when we open a PR, the generated files won't be rendered by
